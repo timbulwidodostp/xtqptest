@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p xtqptest Bias-corrected LM-based test for panel serial correlation, see Born & Breitung (2016) and Wursten (2018) Use xtqptest With STATA 19
