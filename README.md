@@ -1,6 +1,8 @@
 # xtqptest
 Bias-corrected LM-based test for panel serial correlation, see Born &amp; Breitung (2016) and Wursten (2018) Use xtqptest With STATA 19
 
+https://www.youtube.com/watch?v=TrRdARLhwcw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
